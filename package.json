@@ -1,0 +1,19 @@
+{
+  "name": "payment-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000-\u0000p\u0000a\u0000y\u0000m\u0000e\u0000n\u0000t\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
